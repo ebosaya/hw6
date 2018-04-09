@@ -1,7 +1,7 @@
 # hw6 Домашнее задание №6
 Часть 1. Google Ngram Viewer
-   1.  10 самых частотных продолжений фразы "due to the" 
-   ! [https://github.com/ebosaya/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(1).png]
+   1.  10 самых частотных продолжений фразы "due to the"
+   !(ссылка)[https://github.com/ebosaya/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(1).png]
 
 2.Cлово, которое может одновременно относиться к различным частям речи.
 3.Два синонима "film" и "movie"
